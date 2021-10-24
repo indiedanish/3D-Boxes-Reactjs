@@ -2,4 +2,4 @@
 
 ### Click the boxes to kick them 🤜
 
-#### It is just a random project to learn 3D React Website
+#### It is just a random code to learn 3D React Website
