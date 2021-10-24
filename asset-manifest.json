@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3D-Boxes-Reactjs/static/css/main.0794f2c4.chunk.css",
+    "main.js": "/3D-Boxes-Reactjs/static/js/main.916e1201.chunk.js",
+    "main.js.map": "/3D-Boxes-Reactjs/static/js/main.916e1201.chunk.js.map",
+    "runtime-main.js": "/3D-Boxes-Reactjs/static/js/runtime-main.3c610176.js",
+    "runtime-main.js.map": "/3D-Boxes-Reactjs/static/js/runtime-main.3c610176.js.map",
+    "static/js/2.1cdcc548.chunk.js": "/3D-Boxes-Reactjs/static/js/2.1cdcc548.chunk.js",
+    "static/js/2.1cdcc548.chunk.js.map": "/3D-Boxes-Reactjs/static/js/2.1cdcc548.chunk.js.map",
+    "static/js/3.9e3e712f.chunk.js": "/3D-Boxes-Reactjs/static/js/3.9e3e712f.chunk.js",
+    "static/js/3.9e3e712f.chunk.js.map": "/3D-Boxes-Reactjs/static/js/3.9e3e712f.chunk.js.map",
+    "index.html": "/3D-Boxes-Reactjs/index.html",
+    "static/css/main.0794f2c4.chunk.css.map": "/3D-Boxes-Reactjs/static/css/main.0794f2c4.chunk.css.map",
+    "static/js/2.1cdcc548.chunk.js.LICENSE.txt": "/3D-Boxes-Reactjs/static/js/2.1cdcc548.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/3D-Boxes-Reactjs/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c610176.js",
+    "static/js/2.1cdcc548.chunk.js",
+    "static/css/main.0794f2c4.chunk.css",
+    "static/js/main.916e1201.chunk.js"
+  ]
+}
