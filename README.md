@@ -3,3 +3,6 @@
 ### Click the boxes to kick them 🤜
 
 #### It is just a random code to learn 3D React Website
+
+[Screenshot](https://github.com/indiedanish/3D-Boxes-Reactjs/blob/main/3D%20ReactJs.JPG)
+![alt text](https://github.com/indiedanish/3D-Boxes-Reactjs/blob/main/3D%20ReactJs.JPG)
